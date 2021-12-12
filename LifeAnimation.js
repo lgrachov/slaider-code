@@ -1,0 +1,2 @@
+var Computer = getComputedStyle 
+onabort
